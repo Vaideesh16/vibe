@@ -1,4 +1,5 @@
-const Page =  () => {
+
+const Page = () => {
   return (
     <div>
       Hello World
